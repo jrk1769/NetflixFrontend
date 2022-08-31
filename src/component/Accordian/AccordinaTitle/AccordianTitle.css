@@ -1,0 +1,12 @@
+.accordianTitle {
+    background-color: #303030;
+    color: white;
+    font-size: 26px;
+    font-weight: normal;
+    margin-bottom: 1px;
+    margin-top: 5px;
+    cursor: pointer;
+    padding: 0.8em 1.2em;
+    display: flex;
+    justify-content: space-between;
+}

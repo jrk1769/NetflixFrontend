@@ -1,0 +1,24 @@
+.featureTitleHome {
+    color: white;
+    font-size: 55px;
+    font-weight: 620;
+    margin-bottom: 10px;
+    line-height: 1.1em;
+}
+
+.featureTagHome {
+    color: white;
+    font-size: 27px;
+    font-weight: 500;
+    margin-top: 10px;
+    line-height: 1.5em;
+}
+
+.formHeading { 
+    color: white;
+    font-size: 20px;
+    font-weight: 400;
+    margin-top: 10px;
+    margin-bottom: 25px;
+    line-height: 1.2em;
+}

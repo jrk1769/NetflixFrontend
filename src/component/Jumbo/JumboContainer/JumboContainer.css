@@ -1,0 +1,14 @@
+.jumboContainer {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    max-width: 1100px;
+    margin: auto;
+    padding: 70px 5%;
+}
+.jumboTextSide {
+    width: 70%;
+}
+.jumboMixer {
+    position: relative;
+}

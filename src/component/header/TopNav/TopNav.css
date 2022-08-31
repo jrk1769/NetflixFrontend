@@ -1,0 +1,7 @@
+.topNav {
+    max-width: 1920px;
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    margin-bottom: 150px;
+}

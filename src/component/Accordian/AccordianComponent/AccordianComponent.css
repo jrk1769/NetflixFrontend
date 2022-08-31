@@ -1,0 +1,31 @@
+.formHeading { 
+    color: white !important;
+    font-size: 20px !important;
+    font-weight: 400 !important;
+    margin-top: 30px !important;
+    margin-bottom: 10px !important;
+    line-height: 1.2em !important;
+}
+
+.accordianComponent {
+    padding: 70px 45px;
+    background-color: black;
+    color: white;
+}
+
+.accordianComponent h1 {
+    background-color: black;
+    color: white;
+    margin-top: 0;
+    margin-bottom: 0.5rem;    
+    padding: 1.0em 0;
+    font-size: 3.125rem;
+    line-height: 1.1;
+    text-align: center;
+}
+
+.accordianWrapper {
+    max-width: 815px;
+    margin: auto;
+}
+

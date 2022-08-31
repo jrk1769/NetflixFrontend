@@ -1,0 +1,40 @@
+.subscribeEmail {
+    font-size: 20px;
+    width: 100%;
+    padding: 10px;
+    max-width: 450px;
+    border: 0;
+}
+
+.subscribeEmail::placeholder {
+    color: rgb(117, 117, 117);
+    /* font-weight: bold;
+    position: absolute; */
+    font-size: 16px;
+    font-weight: 550;
+    padding: 10px 0;
+}
+
+.subscribeEmail:focus {
+    outline: none;
+}
+
+.subscribeEmail:focus::placeholder {
+    color: rgb(117, 117, 117);
+    animation: mymove 2s;
+    padding: 0;
+    font-weight: bold;
+    position: absolute;
+    font-size: 12px;
+    top: 5px;
+}
+
+/* @keyframes mymove {
+    0% {
+        padding: 0;
+    font-weight: bold;
+    position: absolute;
+    font-size: 12px;
+    top: 5px;
+    }
+} */

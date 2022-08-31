@@ -1,0 +1,7 @@
+.headerWrapper {
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.8)), url(../../../images/home/HomeBackground.jpg);
+    background-size: 100% 100%;
+    background-position: left top;
+    background-repeat: no-repeat;
+    padding: 25px 30px;
+}

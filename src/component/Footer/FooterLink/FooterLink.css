@@ -1,0 +1,10 @@
+.footerLink {
+    text-decoration: none;
+    color: #757575;
+    font-size: 13px;
+    margin-bottom: 20px;
+}
+.footerLink:hover {
+    cursor: pointer;
+    text-decoration: underline;
+}

@@ -1,0 +1,7 @@
+.subscribeWrapper {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    height: 60px;
+    margin-bottom: 100px;
+}

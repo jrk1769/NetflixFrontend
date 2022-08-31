@@ -1,0 +1,19 @@
+.subscribeBtn {
+    background: #e50914;
+    display: flex;
+    align-items: center;
+    width: fit-content;
+    padding: 10px 26px;
+    font-size: 24px;
+    font-weight: 400;
+}
+.subscribeBtn a {
+    text-decoration: none;
+    cursor: pointer;
+    color: white;
+}
+
+.subscribeBtnArrow {
+    width: 24px;
+    margin-left: 10px;
+}

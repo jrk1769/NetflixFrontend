@@ -1,0 +1,9 @@
+.formLink {
+    text-decoration: none;
+    color: white;
+}
+
+.formLink:hover {
+    cursor: pointer;
+    text-decoration: underline;
+}
